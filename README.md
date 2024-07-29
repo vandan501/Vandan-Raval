@@ -1,4 +1,4 @@
-# Hello, I'm Vandan Raval ! 👋
+# Hello, I'm Vandan Raval! 👋
 
 Welcome to my GitHub profile!
 
@@ -12,13 +12,14 @@ Driven by a curiosity to explore emerging technologies, I am actively acquiring 
 
 I'm currently a Junior Software Developer at **Learniphi Technology**. Here are some of the technologies I work with:
 
-- **React**
-- **MERN Stack**
-- **Django**
-- **OpenEdx**
-- **Git & GitHub**
-- **Docker**
-- **Java**
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![MERN](https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![OpenEdx](https://img.shields.io/badge/OpenEdx-232F3E?style=for-the-badge&logo=edx&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 Feel free to connect with me to explore opportunities to create impactful solutions together!
 
